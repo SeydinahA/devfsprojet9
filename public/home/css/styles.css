@@ -1,0 +1,88 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.header .form-control { 
+   height: auto;
+   width: 700%;
+   border-radius: 50px;
+   margin-right: -40px;
+   outline: none;
+}
+.header .btn0 { 
+    height: auto;
+    width: 250%;
+    border-radius: 50px;
+    outline: none;
+ }
+
+ .main {
+    background: url(./assets/img/shoes-5262223.jpg) no-repeat;
+    background-size: cover;
+    height: 100vh;
+    background-position: 50% 50%;
+    width: 100%;
+ }
+ .main h1 {
+    font-size: 40px;
+    font-weight: 700;
+ }
+ .btn01 {
+    height: 45px;
+    width: 35%;
+    border: none;
+    outline: none;
+    background-color: rgb(205, 25, 25);
+    color: white;
+    font-weight: 700;
+    border-radius: 50px;
+ }
+ .img-new {
+    width: 200px;
+    height: 200px;
+ }
+
+ .baby {
+    background: url(./assets/img/baby-3036925.jpg) no-repeat;
+    background-size: cover;
+    height: 60vh;
+    background-position: 90% 90%;
+    width: 100%;
+ }
+ .baby .font-weight-bolt {
+    color: black;
+    font-size: 30px;
+    font-family: 'poppin', Tahoma, Geneva, Verdana, sans-serif;
+ }
+ .baby h6 {
+    color: black;
+    font-size: 20px;
+ }
+ .foter {
+    color: black;
+ }
+.footer .d-flex {
+    margin-left: 20%;
+}
+ .footer .form-control {
+    height: auto;
+    width: 70%;
+    border-radius: 50px;
+    margin-right: -40px;
+    outline: none;
+ }
+ .footer .btn0 {
+    height: auto;
+    width: 30%;
+    border-radius: 50px;
+    outline: none;
+ }
+ .footer p{
+    margin: 0;
+ }
+ .bi0 {
+    font-size: 20px;
+    cursor: pointer;
+    padding-right: 15px;
+}   
